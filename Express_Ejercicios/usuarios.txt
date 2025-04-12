@@ -1,0 +1,2 @@
+Nombre: Juan, Apellido: Pérez, Edad: 30, Altura: 1.75, Peso: 70
+Nombre: Rodrigo, Apellido: Ruelas, Edad: 21, Altura: 1.6, Peso: 68
